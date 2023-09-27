@@ -237,6 +237,9 @@ $RECYCLE.BIN/
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 
+# Personal list for ignoring
+personal_file.txt
+
 
 
 ## Gcc Patch
