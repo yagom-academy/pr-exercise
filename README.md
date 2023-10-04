@@ -1,1 +1,7 @@
-This is a repository for testing Swift Starter Camp!
+README
+
+1. 닉네임: 더꾸
+2. 자기소개:
+    - 경기도 의왕에 거주하는 40대 회사원입니다.
+3. 담당 멘토에게 전하고 싶은 한마디
+    - 열심히 공부하며 Swift에 잘 입문해보겠습니다.
