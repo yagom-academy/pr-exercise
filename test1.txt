@@ -1,2 +1,3 @@
 test1.txt 파일
-branch1에서 수정 1
+branch1에서 파일 수정 1
+branch1에서 파일 수정 2
